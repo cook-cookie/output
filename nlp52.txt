@@ -1,14 +1,11 @@
 Natural	natur
 language	languag
 processing	process
-
 From	from
 Wikipedia,	wikipedia
 the	the
 free	free
 encyclopedia	encyclopedia
-
-
 Natural	natur
 language	languag
 processing	process
@@ -33,7 +30,6 @@ and	and
 human	human
 (natural)	natur
 languages.	languag
-
 As	as
 such,	such
 NLP	nlp
@@ -45,7 +41,6 @@ area	area
 of	of
 humani-computer	humanicomput
 interaction.	interact
-
 Many	mani
 challenges	challeng
 in	in
@@ -73,11 +68,7 @@ involve	involv
 natural	natur
 language	languag
 generation.	gener
-
-
 History	histori
-
-
 The	the
 history	histori
 of	of
@@ -95,7 +86,6 @@ found	found
 from	from
 earlier	earlier
 periods.	period
-
 In	in
 1950,	
 Alan	alan
@@ -122,8 +112,6 @@ a	a
 criterion	criterion
 of	of
 intelligence.	intellig
-
-
 The	the
 Georgetown	georgetown
 experiment	experi
@@ -141,7 +129,6 @@ Russian	russian
 sentences	sentenc
 into	into
 English.	english
-
 The	the
 authors	author
 claimed	claim
@@ -158,7 +145,6 @@ be	be
 a	a
 solved	solv
 problem.	problem
-
 However,	howev
 real	real
 progress	progress
@@ -192,7 +178,6 @@ translation	translat
 was	wa
 dramatically	dramat
 reduced.	reduc
-
 Little	littl
 further	further
 research	research
@@ -214,8 +199,6 @@ translation	translat
 systems	system
 were	were
 developed.	develop
-
-
 Some	some
 notably	notabl
 successful	success
@@ -255,7 +238,6 @@ between	between
 1964	
 to	to
 1966.	
-
 Using	use
 almost	almost
 no	no
@@ -272,7 +254,6 @@ a	a
 startlingly	startlingli
 human-like	humanlik
 interaction.	interact
-
 When	when
 the	the
 "patient"	patient
@@ -303,8 +284,6 @@ say	say
 your	your
 head	head
 hurts?".	hurt
-
-
 During	dure
 the	the
 1970s	s
@@ -322,7 +301,6 @@ information	inform
 into	into
 computer-understandable	computerunderstand
 data.	data
-
 Examples	exampl
 are	are
 MARGIE	margi
@@ -348,7 +326,6 @@ Plot	plot
 Units	unit
 (Lehnert	lehnert
 1981).	
-
 During	dure
 this	thi
 time,	time
@@ -361,8 +338,6 @@ PARRY,	parri
 Racter,	racter
 and	and
 Jabberwacky.	jabberwacki
-
-
 Up	up
 to	to
 the	the
@@ -378,7 +353,6 @@ sets	set
 of	of
 hand-written	handwritten
 rules.	rule
-
 Starting	start
 in	in
 the	the
@@ -401,7 +375,6 @@ algorithms	algorithm
 for	for
 language	languag
 processing.	process
-
 This	thi
 was	wa
 due	due
@@ -449,7 +422,6 @@ approach	approach
 to	to
 language	languag
 processing.	process
-
 Some	some
 of	of
 the	the
@@ -472,7 +444,6 @@ to	to
 existing	exist
 hand-written	handwritten
 rules.	rule
-
 However,	howev
 Part	part
 of	of
@@ -513,7 +484,6 @@ up	up
 the	the
 input	input
 data.	data
-
 The	the
 cache	cach
 language	languag
@@ -532,7 +502,6 @@ of	of
 such	such
 statistical	statist
 models.	model
-
 Such	such
 models	model
 are	are
@@ -569,8 +538,6 @@ system	system
 comprising	compris
 multiple	multipl
 subtasks.	subtask
-
-
 Many	mani
 of	of
 the	the
@@ -599,7 +566,6 @@ statistical	statist
 models	model
 were	were
 developed.	develop
-
 These	these
 systems	system
 were	were
@@ -648,7 +614,6 @@ corresponding	correspond
 systems	system
 of	of
 government.	govern
-
 However,	howev
 most	most
 other	other
@@ -681,7 +646,6 @@ success	success
 of	of
 these	these
 systems.	system
-
 As	as
 a	a
 result,	result
@@ -703,8 +667,6 @@ limited	limit
 amounts	amount
 of	of
 data.	data
-
-
 Recent	recent
 research	research
 has	ha
@@ -716,7 +678,6 @@ and	and
 semi-supervised	semisupervis
 learning	learn
 algorithms.	algorithm
-
 Such	such
 algorithms	algorithm
 are	are
@@ -743,7 +704,6 @@ annotated	annot
 and	and
 non-annotated	nonannot
 data.	data
-
 Generally,	gener
 this	thi
 task	task
@@ -767,7 +727,6 @@ amount	amount
 of	of
 input	input
 data.	data
-
 However,	howev
 there	there
 is	is
@@ -799,14 +758,10 @@ for	for
 the	the
 inferior	inferior
 results.	result
-
-
 NLP	nlp
 using	use
 machine	machin
 learning	learn
-
-
 Modern	modern
 NLP	nlp
 algorithms	algorithm
@@ -819,7 +774,6 @@ especially	especi
 statistical	statist
 machine	machin
 learning.	learn
-
 The	the
 paradigm	paradigm
 of	of
@@ -836,7 +790,6 @@ attempts	attempt
 at	at
 language	languag
 processing.	process
-
 Prior	prior
 implementations	implement
 of	of
@@ -853,7 +806,6 @@ large	larg
 sets	set
 of	of
 rules.	rule
-
 The	the
 machine-learning	machinelearn
 paradigm	paradigm
@@ -889,7 +841,6 @@ of	of
 typical	typic
 real-world	realworld
 examples.	exampl
-
 A	a
 corpus	corpu
 (plural,	plural
@@ -914,8 +865,6 @@ values	valu
 to	to
 be	be
 learned.	learn
-
-
 Many	mani
 different	differ
 classes	class
@@ -929,7 +878,6 @@ applied	appli
 to	to
 NLP	nlp
 tasks.	task
-
 These	these
 algorithms	algorithm
 take	take
@@ -947,7 +895,6 @@ from	from
 the	the
 input	input
 data.	data
-
 Some	some
 of	of
 the	the
@@ -974,7 +921,6 @@ that	that
 were	were
 then	then
 common.	common
-
 Increasingly,	increasingli
 however,	howev
 research	research
@@ -997,7 +943,6 @@ to	to
 each	each
 input	input
 feature.	featur
-
 Such	such
 models	model
 have	have
@@ -1036,8 +981,6 @@ of	of
 a	a
 larger	larger
 system.	system
-
-
 Systems	system
 based	base
 on	on
@@ -1049,8 +992,6 @@ advantages	advantag
 over	over
 hand-produced	handproduc
 rules:	rule
-
-
 The	the
 learning	learn
 procedures	procedur
@@ -1084,7 +1025,6 @@ effort	effort
 should	should
 be	be
 directed.	direct
-
 Automatic	automat
 learning	learn
 procedures	procedur
@@ -1127,7 +1067,6 @@ or	or
 words	word
 accidentally	accident
 omitted).	omit
-
 Generally,	gener
 handling	handl
 such	such
@@ -1155,7 +1094,6 @@ difficult,	difficult
 error-prone	errorpron
 and	and
 time-consuming.	timeconsum
-
 Systems	system
 based	base
 on	on
@@ -1174,7 +1112,6 @@ supplying	suppli
 more	more
 input	input
 data.	data
-
 However,	howev
 systems	system
 based	base
@@ -1201,7 +1138,6 @@ much	much
 more	more
 difficult	difficult
 task.	task
-
 In	in
 particular,	particular
 there	there
@@ -1226,7 +1162,6 @@ more	more
 and	and
 more	more
 unmanageable.	unmanag
-
 However,	howev
 creating	creat
 more	more
@@ -1258,7 +1193,6 @@ of	of
 the	the
 annotation	annot
 process.	process
-
 The	the
 subfield	subfield
 of	of
@@ -1296,7 +1230,6 @@ Linguistics	linguist
 and	and
 Language	languag
 Acquisition.	acquisit
-
 When	when
 the	the
 aims	aim
@@ -1324,5 +1257,3 @@ field	field
 of	of
 Computational	comput
 Psycholinguistics.	psycholinguist
-
-
